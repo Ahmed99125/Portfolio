@@ -1,7 +1,7 @@
 // Initialize EmailJS with your Public Key
 (function() {
   // Replace with your actual EmailJS Public Key
-  emailjs.init("SO55_xKnTenkgRzt2");
+  emailjs.init("tumTXzaleDYQuKSOb");
 })();
 
 document.addEventListener('DOMContentLoaded', function() {
